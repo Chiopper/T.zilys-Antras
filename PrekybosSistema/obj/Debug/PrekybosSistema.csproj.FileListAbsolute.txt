@@ -49,3 +49,20 @@ C:\Users\Toshis\Desktop\zalickas\versiju valdimas\PrekybosSistema\PrekybosSistem
 C:\Users\Toshis\Desktop\zalickas\versiju valdimas\PrekybosSistema\PrekybosSistema\obj\Debug\PrekybosSistema.TiekejuRegistracija.resources
 C:\Users\Toshis\Desktop\zalickas\versiju valdimas\PrekybosSistema\PrekybosSistema\obj\Debug\PrekybosSistema.TiekejuRegistracija2.resources
 C:\Users\Toshis\Desktop\zalickas\versiju valdimas\PrekybosSistema\PrekybosSistema\obj\Debug\PrekybosSistema.csproj.GenerateResource.Cache
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\bin\Debug\PrekybosSistema.exe.config
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.csproj.ResolveComReference.cache
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.exe
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.pdb
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\bin\Debug\sandelys.mdf
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\bin\Debug\sandelys_log.ldf
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\bin\Debug\PrekybosSistema.exe
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\bin\Debug\PrekybosSistema.pdb
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.csprojResolveAssemblyReference.cache
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.Form1.resources
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.Properties.Resources.resources
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.Tiekejai.resources
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.TiekejoIsregistravimas.resources
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.TiekejuRegistracija.resources
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.TiekejuRegistracija2.resources
+C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\obj\Debug\PrekybosSistema.csproj.GenerateResource.Cache

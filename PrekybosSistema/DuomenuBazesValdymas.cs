@@ -90,7 +90,7 @@ namespace PrekybosSistema
             sqlConnection.Close();
         }
         /**
-            * TIEKEJU ISREGISTRAVIMAS, suteikiame informacija apie tiekeja
+               * TIEKEJU ISREGISTRAVIMAS, suteikiame informacija apie tiekeja
         */
         public void tiekejuSarasasIsregistravimui(TiekejoIsregistravimas data)
         {
