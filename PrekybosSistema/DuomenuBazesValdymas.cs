@@ -10,7 +10,7 @@ namespace PrekybosSistema
          public DuomenuBazesValdymas()
         {
             // Prisijungiame prie duomenu bazes
-            this.connectionString = @"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\Audrius\documents\visual studio 2015\PrekybosSistema\PrekybosSistema\PrekybosSistema\sandelys.mdf; Integrated Security = True";
+            this.connectionString = @"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\Toshis\Documents\GitHub\T.zilys-Antras\PrekybosSistema\PrekybosSistema\sandelys.mdf; Integrated Security = True";
         }
 
         /**
