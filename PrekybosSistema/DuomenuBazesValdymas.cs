@@ -62,14 +62,14 @@ namespace PrekybosSistema
             count = (int)cmd.ExecuteScalar();
             sqlConnection.Close();
 
-            if (count >= 1)
+            if (count >= 1) 
                 return true;
             else
                 return false;
         }
 
         /**
-            * Perduodame Listbox`ui sarasa tiekeju
+              * Perduodame Listbox`ui sarasa tiekeju
         */
         public void tiekejuSarasas(TiekejoIsregistravimas data)
         {
